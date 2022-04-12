@@ -15,7 +15,6 @@ int mul(int a, int b);
 
 int add (int a, int b);
 
-int main()
 
 {
   int a = 3, b = 4, sum = 0;
